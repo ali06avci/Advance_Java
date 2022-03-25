@@ -9,8 +9,8 @@ public class WritingFile {
 
     public static void main(String[] args) {
 
-//		File folder=new File("src/com/fileio/folder1");
-//		folder.mkdir();
+		File folder=new File("src/com/fileio/folder1");
+		folder.mkdir();
 
         File file1=new File("src/com/fileio/folder1/MyFile.txt");
 //
